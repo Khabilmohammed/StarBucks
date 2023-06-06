@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+}
+.first-section{
+    height: 80px;
+    background-color: rgb(30, 57, 50);
+}
+.first-section-head{
+    color: #f9f9f9;
+    font-size: 20px;
+    font-weight: 300;
+}
+.first-section-btn{
+    width: 96px;
+    height: 32px;
+    padding: 0;
+    font-size: 12px;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    color: #fff;
+}
+.second-section{
+
+}
+.second-section-head{
+    color: rgb(30, 57, 50);
+    font-weight: 500;
+    font-size: 24px;
+
+}
+.second-section-img{
+    height: 108px;
+    width: 108px;
+    border-radius: 54px;
+}
+.fourth-section-fifth-section{
+    background-color: rgb(237,235,233);
+    
+}
+.card-para{
+    font-size: 10px;
+    color: #6c757d;
+}
+
+.card-head{
+    font-size: 14px;
+    color: #000;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.fourth-section-card{
+    background-color: white;
+}
+.fourth-section-image{
+    width: 80px;
+    height: 80px;
+    
+    object-fit: cover;
+}
+.fourth-section-btn{
+ border-radius: 20px;
+}
+.fourth-section-head{
+    color: rgb(30, 57, 50);
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.8px;
+    font-family: SoDoSans_Bold, Helvetica, sans-serif;
+}
+.fifth-section-image-head{
+    font: 28px;
+    font-weight: 500;
+    color: white;
+    display: block;
+}
+.fifth-section-image-para{
+    color: white;
+    display: block;
+}
+.footer-section{
+    background-color: rgb(14,56,44);
+    
+}
+
+.footer-head{
+    font-size: 1.125em;
+    color: #fff;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    cursor: pointer;
+}
+.footer-detail{
+    font-weight: 400;
+    font-size: .875em;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.instagram-image{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.header-part{
+    
+}
+.serch-box{
+    padding: 6px 12px;
+    display: block;
+    border-radius: 19px;
+    
+    width: 269px;
+    border: solid 1px whitesmoke;
+
+
+}
